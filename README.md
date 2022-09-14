@@ -15,7 +15,7 @@ Enter the limit
 ### Step-5: 
 using for loop printing " " when i&j==0 and using for loop applying the concept of pascal triangle
 
-##Program:
+## Program:
 ~~~
 using System;
 namespace PascalTriangleDemo
